@@ -80,7 +80,7 @@ The initial model created using keras neural network library is shown below.  Th
 
 ![Alt Text](Resources/Images/Del2_model.png)
 
-- The initial neural network model design results in an accuracy score of 72.4% with a loss of 55.3%.  The initial result is below the 75% target so the model will need to be optimized which is detailed in the next section. 
+- The initial neural network model design results in an accuracy score of 72.5% with a loss of 55.5%.  The initial result is below the 75% target so the model will need to be optimized which is detailed in the next section. 
 
 ![Alt Text](Resources/Images/Del2_pred.png)
 
